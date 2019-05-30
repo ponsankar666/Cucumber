@@ -35,5 +35,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="D:/Selenium/jar/jar_files/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar/selenium-server-standalone-3.141.59.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
